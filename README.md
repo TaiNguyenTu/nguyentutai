@@ -4,9 +4,11 @@
 💡 Passionate about robotics, embedded systems, and real-time control.
 
 ## 🔧 Technical Skills
-- Programming: C/C++, Python, MATLAB
-- Tools: Simulink, ROS, STM32, Git
-- Interests: Autonomous robots, Inverse kinematics, Trajectory planning
+- Programming Languages: C/C++, Python, MATLAB
+- Simulation & Control Tools: Simulink, ROS (Robot Operating System)
+- Embedded Systems: STM32 (HAL, STD), UART, I2C, SPI, CAN
+- Version Control & Tools: Git, GitHub
+- Core Interests: Autonomous robotics, Trajectory tracking, Inverse kinematics, Real-time control
 
 ## 📘 Featured Projects
 - 🔹 3DOF Robotic Arm Simulator (MATLAB)
